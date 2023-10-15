@@ -1,0 +1,5 @@
+Hi this is file Handling.
+we are !!checking word occurance
+Do you like Coding ?
+This is also a file .
+Yes We like coding 
